@@ -1,2 +1,7 @@
-# memory-flipcard-game
-A web-based card matching game designed to work both online and offline. Players flip cards to find matching pairs and earn points for each successful match. Unmatched cards automatically return to their original position. The game includes a timer that starts when gameplay begins, adding an engaging challenge to improve speed and memory skills.
+# flipcard-memory-game
+
+Flip is a timed card memory game. Click the green cards to see what symbol they uncover and try to find the matching symbol underneath the other cards. Uncover two matching symbols at once to eliminate them from the game. Eliminate all cards as fast as you can to win the game.
+
+Github pages: https://harshalparmar.github.io/flipcard-memory-game/
+
+![alt text](https://raw.githubusercontent.com/harshalparmar/flipcard-memory-game/main/flipcard-memory-game-img.png)
